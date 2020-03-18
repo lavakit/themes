@@ -10,7 +10,7 @@
 </head>
 <body>
 <div>
-    Theme Default
+    Administrator LavaTheme
     <div class="content">
         @yield('content')
     </div>
